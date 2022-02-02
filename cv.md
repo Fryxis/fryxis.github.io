@@ -13,7 +13,6 @@ PROFIL :
 ### PERMIS B - PERMIS A
 ### 19 Avril 1999 - 22 Ans
 ### Bellevue la Montagne, FR
-### 06 88 27 53 47
 ## lennycoston@laposte.net
 ```
 COMPETENCES :
